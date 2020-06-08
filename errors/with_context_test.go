@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	linq "github.com/ahmetb/go-linq"
+	linq "github.com/ahmetb/go-linq/v3"
 	"github.com/mailgun/holster/v3/callstack"
 	"github.com/mailgun/holster/v3/errors"
 	"github.com/stretchr/testify/assert"

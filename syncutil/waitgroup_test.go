@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	linq "github.com/ahmetb/go-linq"
+	linq "github.com/ahmetb/go-linq/v3"
 	"github.com/mailgun/holster/v3/syncutil"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/suite"
